@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2500&color=E6A709&center=true&vCenter=true&width=435&lines=Hi%2C+there!!+%F0%9F%98%80;Welcome+to+my+Github!!" alt="Typing SVG" /></a>
 
-🔭 I’m currently studying at Asia University.
+🔭 I’m currently studying at Asia University.  
 🌱 I’m currently learning unity, shader code, deep learning.
 <!--
 **Parrot222/Parrot222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
