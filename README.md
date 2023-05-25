@@ -2,6 +2,7 @@
 
 🔭 I’m currently studying at Asia University.  
 🌱 I’m currently learning unity, shader code, deep learning.
+---------------------------------------------------------------
 <!--
 **Parrot222/Parrot222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
