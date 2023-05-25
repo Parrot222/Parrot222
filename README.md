@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 
 ### Github Analytics
-<a href="https://github.com/htchu">
+<a href="https://github.com/Parrot222">
   <img src="https://github-readme-stats.vercel.app/api?username=Parrot222&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
-<a href="https://github.com/htchu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htchu&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+<a href="https://github.com/Parrot222">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parrot222&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
